@@ -32,6 +32,6 @@ void tubo::cargaAltimetrica(double CotaY1, double CotaY2) {
 }
 
 void conexao::criarConexao(double comprimentoConexao) {
-	numeroTubo = 2;
+	numeroTubo = 1;
 	comprimentoEquivalente = comprimentoConexao;
 }
